@@ -1,1 +1,2 @@
-Grundlagenkurs in Dart & Flutter. Einführung in die moderne App Entwicklung mit 
+Grundlagenkurs in Dart & Flutter. Einführung in die moderne App Entwicklung mit
+# handle the edge case from the last release
