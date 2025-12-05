@@ -11,3 +11,4 @@ Notes and usage details for FlutterLeichtGemacht_ZeroToMasery.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- clarify the setup steps
