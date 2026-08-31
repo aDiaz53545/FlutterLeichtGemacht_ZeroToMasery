@@ -26,3 +26,4 @@ Grundlagenkurs in Dart & Flutter. Einführung in die moderne App Entwicklung mit
 # drop an unused branch
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
+# clarify the control flow
